@@ -35,13 +35,9 @@ Getting Started
 
 1.  Build the Docker image using the provided Dockerfile.
 
-    arduinoCopy code
-
     `docker build -t your-image-name .`
 
 2.  Run the Docker container.
-
-    arduinoCopy code
 
     `docker run -p 8000:8000 your-image-name`
 
@@ -59,4 +55,4 @@ Contributions are welcome. Please follow the standard pull request process for y
 License
 -------
 
-[Your preferred License]
+This project is licensed under the MIT License
